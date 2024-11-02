@@ -62,7 +62,7 @@ The Booster Sheet Data Model describes the properties of how a sheet of printed 
 
 > ### fixed <DocBadge type="warning" text="optional" />
 >
-> If cards are garunteed to be in this sheet. Used for "Jump Start"-style products.
+> If cards are guaranteed to be in this sheet. Used for "Jump Start"-style products.
 >
 > - **Type:** `boolean`
 > - **Introduced:** `v5.2.2`
